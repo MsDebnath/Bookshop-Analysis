@@ -1,3 +1,4 @@
+# Bookshop Analysis
 ## Introduction
 In today's dynamic and competitive book market, understanding consumer preferences, sales trends, and author performance is paramount for success. As the landscape evolves, so too must our strategies to meet the needs and expectations of our readers while maximizing profitability and fostering successful author partnerships. To achieve these objectives, we embark on a comprehensive Bookshop Analysis project aimed at uncovering actionable insights from high-level Key Performance Indicators (KPIs) to granular sales and author data.
 
