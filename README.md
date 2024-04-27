@@ -11,6 +11,25 @@ In today's dynamic and competitive book market, understanding consumer preferenc
 * ### Author and Series Analysis
   Assessing the popularity and critical success of authors and series is crucial for sustaining reader engagement. By delving into metrics such as ratings, sales figures, and author productivity, we aim to uncover correlations between writing output and book performance. This insight will aid in planning targeted book tours and events, capitalizing on the popularity of certain authors and series to enhance customer satisfaction and drive sales.
 
+## The Dataset
+The bookshop dataset has 12 tables in total. 
+  * Book
+  * Author
+  * Info
+  * Checkouts
+  * Edition
+  * Publisher
+  * Ratings
+  * Series
+  * Sales Q1
+  * Sales Q2
+  * Sales Q3
+  * Sales Q4
+
+## Model View
+![Model View](https://github.com/MsDebnath/Bookshop-Analysis/assets/134738648/3222eeb5-a629-4a7d-8485-48edb5a9b6f8)
+
+
 ## Visualization
 ![Screenshot 2024-02-24 152033](https://github.com/MsDebnath/Bookshop-Analysis/assets/134738648/d7b7bb76-12c1-42f4-8385-58f7299f2710)
 
@@ -33,32 +52,32 @@ In today's dynamic and competitive book market, understanding consumer preferenc
 ## Insights
 ### *Executive overview*
   1. #### Total Sales Overview:
-     * Total Sales: $699.57K
-     * Total Quantity of books Sold: 56350
-     * Average Selling Price: $16.81
-     * These figures provide a comprehensive view of the bookshop's overall performance in terms of revenue generation and sales volume. The average selling price indicates the price point at which books are being sold, which can be useful for pricing strategies and understanding consumer preferences.
+  * Total Sales: $699.57K
+  * Total Quantity of books Sold: 56350
+  * Average Selling Price: $16.81
+  * These figures provide a comprehensive view of the bookshop's overall performance in terms of revenue generation and sales volume. The average selling price indicates the price point at which books are being sold, which can be useful for pricing strategies and understanding consumer preferences.
 
   2. #### Author and Publishing House Performance:
-     * Top selling Author: Bianca Thompson
-     * Bianca Thompson's dominance in sales highlights the importance of popular authors in driving revenue for the bookshop. It suggests a strong reader following and potentially successful marketing efforts.
-     * Top selling Publishing House: Etaoin Shrdlu Press
-     * The success of Etaoin Shrdlu Press signifies the significance of publisher partnerships in driving sales. Collaborations with high-performing publishing houses can contribute significantly to the bookshop's overall revenue.
+  * Top selling Author: Bianca Thompson
+    * Bianca Thompson's dominance in sales highlights the importance of popular authors in driving revenue for the bookshop. It suggests a strong reader following and potentially successful marketing efforts.
+  * Top selling Publishing House: Etaoin Shrdlu Press
+    * The success of Etaoin Shrdlu Press signifies the significance of publisher partnerships in driving sales. Collaborations with high-performing publishing houses can contribute significantly to the bookshop's overall revenue.
 
   3. #### Sales Trends and Seasonality:
-     * Sales trend: Upward trendline till August
-     * The upward trendline indicates overall growth in sales over the analyzed period. This positive trajectory is promising for the bookshop's future prospects.
-     * Monthly sales variation: February had the lowest sales ($27,300), while August had the highest sales ($1,07,380)
-       * Understanding monthly sales variations helps in identifying seasonal trends and planning inventory management, promotions, and marketing campaigns accordingly.
+  * Sales trend: Upward trendline till August
+    * The upward trendline indicates overall growth in sales over the analyzed period. This positive trajectory is promising for the bookshop's future prospects.
+  * Monthly sales variation: February had the lowest sales ($27,300), while August had the highest sales ($1,07,380)
+    * Understanding monthly sales variations helps in identifying seasonal trends and planning inventory management, promotions, and marketing campaigns accordingly.
 
   4. #### Author and Book Performance:
-     * Bianca Thompson's highest Sales ($2,30,717)
-        * Bianca Thompson's exceptional sales performance underscores the impact of individual authors on overall revenue generation. Investing in promoting and showcasing her work could yield further sales growth.
-     * Lynne Danticat's highest total Rating (40420)
-        * Lynne Danticat's high total rating suggests strong reader satisfaction and engagement with her books. Focusing on promoting highly-rated authors can enhance the bookshop's reputation and attract more customers.
+  * Bianca Thompson's highest Sales ($2,30,717)
+    * Bianca Thompson's exceptional sales performance underscores the impact of individual authors on overall revenue generation. Investing in promoting and showcasing her work could yield further sales growth.
+  * Lynne Danticat's highest total Rating (40420)
+    * Lynne Danticat's high total rating suggests strong reader satisfaction and engagement with her books. Focusing on promoting highly-rated authors can enhance the bookshop's reputation and attract more customers.
 
   5. #### Book Format Analysis:
-     * Highest sales were in the Hardcover Book Format
-       * Understanding format preferences can guide inventory management decisions and promotional strategies. Capitalizing on the popularity of hardcover books can help maximize sales and profitability.
+  * Highest sales were in the Hardcover Book Format
+    * Understanding format preferences can guide inventory management decisions and promotional strategies. Capitalizing on the popularity of hardcover books can help maximize sales and profitability.
 
 These insights provide valuable information for strategic decision-making, including author partnerships, inventory management, pricing strategies, and marketing efforts. Analyzing such data enables the bookshop to optimize its operations and enhance customer satisfaction, ultimately driving long-term success.
 
